@@ -33,7 +33,7 @@ const generateShoppingCart = (products) => {
               <div class="img-info">
                 <div class="info-inner">
                   <span class="p-name">${name}</span>
-                  <span class="p-company">Yeezy</span>
+                  <span class="p-company">Brand  Quality</span>
                 </div>
                 <div class="a-size">
                   Available sizes : <span class="size">S , M , L , XL</span>
